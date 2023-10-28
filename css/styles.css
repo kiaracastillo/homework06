@@ -144,6 +144,8 @@ footer .social img {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  -webkit-filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.2588235294));
+          filter: drop-shadow(0px 10px 6px rgba(0, 0, 0, 0.2588235294));
 }
 .nav-holder .hamburger-icon {
   display: none;
