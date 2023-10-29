@@ -14,7 +14,7 @@ function route() {
 
 
 function initListeners() {
-    console.log("Test");
+    console.log("test");
 }
 
 function initUrlListeners() {
