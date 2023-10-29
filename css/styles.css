@@ -78,6 +78,7 @@ footer .social img {
   footer {
     margin-top: 10px;
     width: 90%;
+    margin-bottom: 10px;
   }
   footer .copy span {
     width: auto;
@@ -226,7 +227,6 @@ footer .social img {
 }
 
 .home {
-  height: 800px;
   width: 100%;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(242, 92, 84, 0.674)), to(rgba(242, 92, 84, 0.674))), url(../img/hero.jpg);
   background-image: linear-gradient(rgba(242, 92, 84, 0.674), rgba(242, 92, 84, 0.674)), url(../img/hero.jpg);

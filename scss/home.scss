@@ -1,11 +1,12 @@
 .home{
-    height: 800px;
+    //height: 800px;
     width: 100%;
     background-image:  linear-gradient(  rgba(242, 92, 84, 0.674),    rgba(242, 92, 84, 0.674) ), url(../img/hero.jpg);
     background-blend-mode:normal;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    
 }
 
    /* .content {
@@ -113,5 +114,9 @@
   }
   }
 
+
+  @media screen and (max-width: 360px) {
+    
+  }
 
         

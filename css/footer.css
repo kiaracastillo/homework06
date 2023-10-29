@@ -56,6 +56,7 @@ footer .social img {
   footer {
     margin-top: 10px;
     width: 90%;
+    margin-bottom: 10px;
   }
   footer .copy span {
     width: auto;
