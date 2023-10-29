@@ -1,0 +1,1 @@
+export function changePage(e,t){""==t||"home"==t?$.get("pages/home.html",(e=>{$("#app").html(e)})):$.get(`pages/${t}.html`,(e=>{$("#app").html(e)}))}
