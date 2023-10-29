@@ -110,10 +110,11 @@
   left: 0;
   height: calc(100vh - 50px);
   width: 100%;
-}
-
-.mobile-menu li{
-  margin-bottom: 10px;
+  li{
+    margin-bottom: 10px;
+      
+  }
+  
 }
 
 @media all and (max-width: 768px) {
@@ -123,6 +124,7 @@
   }
   .hamburger-icon{
       display: block;
+      
      
   }
 

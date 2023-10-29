@@ -41,3 +41,30 @@ a{
     }
   }
 }
+
+
+
+@media screen and (max-width: 768px) {
+  footer {
+    margin-top: 50px;
+   width: 90%;
+    .copy {
+      span {
+        width: auto;
+        font-size: 10px; 
+      }
+    }
+
+    .links {
+      width: auto;
+     
+
+      a {
+        margin-left: 10px;
+        font-size: 10px; 
+      }
+    }
+
+    
+  }
+}

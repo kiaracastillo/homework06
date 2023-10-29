@@ -73,6 +73,23 @@ footer .social img {
   height: 19px;
 }
 
+@media screen and (max-width: 768px) {
+  footer {
+    margin-top: 50px;
+    width: 90%;
+  }
+  footer .copy span {
+    width: auto;
+    font-size: 10px;
+  }
+  footer .links {
+    width: auto;
+  }
+  footer .links a {
+    margin-left: 10px;
+    font-size: 10px;
+  }
+}
 .nav-holder {
   height: 113px;
   padding: 0 50px;
